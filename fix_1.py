@@ -14,7 +14,6 @@ def import_stuff_and_wrangle(filenames):
 	print(filenames[1])
 	with open(filenames[1]) as csv_file:
 		csv_read=csv.reader(csv_file,delimiter='\t')
-		# csv_as_list=[]
 		csv_as_list = list(csv_read)
 		return(csv_as_list)
 
@@ -27,7 +26,7 @@ def row_logic(old_row):
 	try:
 		old_row[0]=old_row[0].lower().replace('you (pl)','you_plural_dummy')
 		old_row[1]=old_row[1].lower().replace('you (pl)','you_plural_dummy')
-		#print(old_row)
+		
 	except AttributeError as e:
 		pass
 	
@@ -41,30 +40,21 @@ def row_logic(old_row):
 	try:
 		old_row[0]=old_row[0].lower().replace('you_plural_dummy','you (pl)')
 		old_row[1]=old_row[1].lower().replace('you_plural_dummy','you (pl)')
-		#print(old_row)
+		
 	except AttributeError as e:
 		pass			
 
-	print(old_row)
-	# if :
-	# 	pass
-	# if :
-	# 	pass
-	# if :
-	# 	pass			
+	print(old_row)		
 	return(old_row)
 
 def export_list_to_csv(fixed_list_of_rows,filenames):
 	output_filename=filenames[1]+'_fixed.txt'
-	# with open(output_filename, 'wb') as myfile:
-	#     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-	#     for row in fixed_list_of_rows:
-	# 	    wr.writerow(row)
+
 	with open(output_filename, 'w', newline='') as csvfile:
-		spamwriter = csv.writer(csvfile, delimiter='	',
+		writer_object = csv.writer(csvfile, delimiter='	',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
 		for row in fixed_list_of_rows:
-			spamwriter.writerow(row)
+			writer_object.writerow(row)
 
 if __name__ == '__main__':
 	list_of_rows=import_stuff_and_wrangle(sys.argv)
