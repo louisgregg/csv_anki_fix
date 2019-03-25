@@ -1,0 +1,180 @@
+to give	dar
+dar	to give
+I give	doy
+doy	I give
+you give	das
+das	you give
+he/she/it gives	da
+da	he/she/it gives
+We give	damos
+damos	We give
+you (pl) give	dais
+dais	you (pl) give
+They give	dan
+dan	They give
+to say, to tell	decir
+decir	to say, to tell
+I say / I tell	digo
+digo	I say / I tell
+you say / you tell	dices
+dices	you say / you tell
+he/she tells	dice
+dice	he/she tells
+We say / tell	decimos
+decimos	We say / tell
+You (pl) say / tell	decís
+decís	You (pl) say / tell
+They say / tell	dicen
+dicen	They say / tell
+to make / do	hacer
+hacer	to make / do
+I do / make	hago
+hago	I do / make
+you do / make	hace
+hace	you do / make
+We do / make	hacemos
+hacemos	We do / make
+You (pl) do / make	hacéis
+hacéis	You (pl) do / make
+They do / make	hacen
+hacen	They do / make
+to go	ir
+ir	to go
+I go	voy
+voy	I go
+you go	vas
+vas	you go
+he / she goes	va
+va	he / she goes
+we go	vamos
+vamos	we go
+you (pl) go&nbsp;	vais
+vais	you (pl) go&nbsp;
+they go	van
+van	they go
+to play (games) / to gamble	jugar
+jugar	to play (games) / to gamble
+I play (games)	juego
+juego	I play (games)
+you play (games)	juegas
+juegas	you play (games)
+he / she play (games)	juega
+juega	he / she play (games)
+we play (games)	jugamos
+jugamos	we play (games)
+you (pl) play (games)	jugaís
+jugaís	you (pl) play (games)
+they play (games)	juegan
+juegan	they play (games)
+to hear	oír
+oír	to hear
+I hear	oigo
+oigo	I hear
+you hear	oyes
+oyes	you hear
+he / she hears	oye
+oye	he / she hears
+we hear	oímos
+oímos	we hear
+you (pl) hear	oís
+oís	you (pl) hear
+they hear	oyen
+oyen	they hear
+to be able to / can	poder
+poder	to be able to / can
+I am able to / I can	puedo
+puedo	I am able to / I can
+You are able to / you can&nbsp;	puedes
+puedes	You are able to / you can&nbsp;
+He/She is able to / can	puede
+puede	He/She is able to / can
+We are able to / can	podemos
+podemos	We are able to / can
+you (pl) are able to / can	podéis
+podéis	you (pl) are able to / can
+they are able to / can	pueden
+pueden	they are able to / can
+to put	poner
+poner	to put
+I put	pongo
+pongo	I put
+you put	pones
+pones	you put
+he / she puts	pone
+pone	he / she puts
+we put	ponemos
+ponemos	we put
+you (pl) put	ponéis
+ponéis	you (pl) put
+they put	ponen
+ponen	they put
+to want	querer
+querer	to want
+I want	quiero
+quiero	I want
+you want	quieres
+quieres	you want
+he / she wants	quiere
+quiere	he / she wants
+we want	queremos
+queremos	we want
+you (pl) want	queréis
+queréis	you (pl) want
+they want	quieren
+quieren	they want
+to leave	salir
+salir	to leave
+I leave	salgo
+salgo	I leave
+you leave	sales
+sales	you leave
+he / she leaves	sale
+sale	he / she leaves
+we leave	salimos
+salimos	we leave
+you (pl) leave	salís
+salís	you (pl) leave
+they leave	salen
+salen	they leave
+to come	venir
+venir	to come
+I come	vengo
+vengo	I come
+you come	vienes
+vienes	you come
+he / she comes	viene
+viene	he / she comes
+we come	venimos
+venimos	we come
+you (pl) come	venís
+venís	you (pl) come
+they come	vienen
+vienen	they come
+to see	ver
+ver	to see
+I see	veo
+veo	I see
+you see	ves
+ves	you see
+he / she sees	ve
+ve	he / she sees
+we see	vemos
+vemos	we see
+you (pl) see&nbsp;	veis
+veis	you (pl) see&nbsp;
+they see	ven
+ven	they see
+to get	consequir
+consequir	to get
+I get	"cons<font color=""#ff0000"">ig</font>o"
+"cons<font color=""#ff0000"">ig</font>o"	I get
+you get	"cons<font color=""#ff0000"">i</font>gues"
+"cons<font color=""#ff0000"">i</font>gues"	you get
+he / she gets	"cons<font color=""#ff0000"">i</font>gue"
+"cons<font color=""#ff0000"">i</font>gue"	he / she gets
+we get	conseguimos
+conseguimos	we get
+you (pl) get&nbsp;	conseguís<br>
+conseguís<br>	you (pl) get&nbsp;
+they get	"cons<font color=""#ff0000"">i</font>guen"
+"cons<font color=""#ff0000"">i</font>guen"	they get

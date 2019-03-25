@@ -1,0 +1,180 @@
+to give	dar
+dar	to give
+i give	yo doy
+yo doy	i give
+you give	tú das
+tú das	you give
+he/she/it gives	él/ella/ud. da
+él/ella/ud. da	he/she/it gives
+we give	nosotros damos
+nosotros damos	we give
+you (pl) give	vosotros dais
+vosotros dais	you (pl) give
+they give	ellos/ellas/uds. dan
+ellos/ellas/uds. dan	they give
+to say, to tell	decir
+decir	to say, to tell
+i say / i tell	yo digo
+yo digo	i say / i tell
+you say / you tell	tú dices
+tú dices	you say / you tell
+he/she tells	él/ella/ud. dice
+él/ella/ud. dice	he/she tells
+we say / tell	nosotros decimos
+nosotros decimos	we say / tell
+you (pl) say / tell	vosotros decís
+vosotros decís	you (pl) say / tell
+they say / tell	ellos/ellas/uds. dicen
+ellos/ellas/uds. dicen	they say / tell
+to make / do	hacer
+hacer	to make / do
+i do / make	yo hago
+yo hago	i do / make
+you do / make	tú hace
+tú hace	you do / make
+we do / make	nosotros hacemos
+nosotros hacemos	we do / make
+you (pl) do / make	vosotros hacéis
+vosotros hacéis	you (pl) do / make
+they do / make	ellos/ellas/uds. hacen
+ellos/ellas/uds. hacen	they do / make
+to go	ir
+ir	to go
+i go	yo voy
+yo voy	i go
+you go	tú vas
+tú vas	you go
+he / she goes	va
+va	he / she goes
+we go	nosotros vamos
+nosotros vamos	we go
+you (pl) go&nbsp;	vosotros vais
+vosotros vais	you (pl) go&nbsp;
+they go	ellos/ellas/uds. van
+ellos/ellas/uds. van	they go
+to play (games) / to gamble	jugar
+jugar	to play (games) / to gamble
+i play (games)	yo juego
+yo juego	i play (games)
+you play (games)	tú juegas
+tú juegas	you play (games)
+he / she play (games)	juega
+juega	he / she play (games)
+we play (games)	nosotros jugamos
+nosotros jugamos	we play (games)
+you (pl) play (games)	vosotros jugaís
+vosotros jugaís	you (pl) play (games)
+they play (games)	ellos/ellas/uds. juegan
+ellos/ellas/uds. juegan	they play (games)
+to hear	oír
+oír	to hear
+i hear	yo oigo
+yo oigo	i hear
+you hear	tú oyes
+tú oyes	you hear
+he / she hears	oye
+oye	he / she hears
+we hear	nosotros oímos
+nosotros oímos	we hear
+you (pl) hear	vosotros oís
+vosotros oís	you (pl) hear
+they hear	ellos/ellas/uds. oyen
+ellos/ellas/uds. oyen	they hear
+to be able to / can	poder
+poder	to be able to / can
+i am able to / i can	yo puedo
+yo puedo	i am able to / i can
+you are able to / you can&nbsp;	tú puedes
+tú puedes	you are able to / you can&nbsp;
+he/she is able to / can	él/ella/ud. puede
+él/ella/ud. puede	he/she is able to / can
+we are able to / can	nosotros podemos
+nosotros podemos	we are able to / can
+you (pl) are able to / can	vosotros podéis
+vosotros podéis	you (pl) are able to / can
+they are able to / can	ellos/ellas/uds. pueden
+ellos/ellas/uds. pueden	they are able to / can
+to put	poner
+poner	to put
+i put	yo pongo
+yo pongo	i put
+you put	tú pones
+tú pones	you put
+he / she puts	pone
+pone	he / she puts
+we put	nosotros ponemos
+nosotros ponemos	we put
+you (pl) put	vosotros ponéis
+vosotros ponéis	you (pl) put
+they put	ellos/ellas/uds. ponen
+ellos/ellas/uds. ponen	they put
+to want	querer
+querer	to want
+i want	yo quiero
+yo quiero	i want
+you want	tú quieres
+tú quieres	you want
+he / she wants	quiere
+quiere	he / she wants
+we want	nosotros queremos
+nosotros queremos	we want
+you (pl) want	vosotros queréis
+vosotros queréis	you (pl) want
+they want	ellos/ellas/uds. quieren
+ellos/ellas/uds. quieren	they want
+to leave	salir
+salir	to leave
+i leave	yo salgo
+yo salgo	i leave
+you leave	tú sales
+tú sales	you leave
+he / she leaves	sale
+sale	he / she leaves
+we leave	nosotros salimos
+nosotros salimos	we leave
+you (pl) leave	vosotros salís
+vosotros salís	you (pl) leave
+they leave	ellos/ellas/uds. salen
+ellos/ellas/uds. salen	they leave
+to come	venir
+venir	to come
+i come	yo vengo
+yo vengo	i come
+you come	tú vienes
+tú vienes	you come
+he / she comes	viene
+viene	he / she comes
+we come	nosotros venimos
+nosotros venimos	we come
+you (pl) come	vosotros venís
+vosotros venís	you (pl) come
+they come	ellos/ellas/uds. vienen
+ellos/ellas/uds. vienen	they come
+to see	ver
+ver	to see
+i see	yo veo
+yo veo	i see
+you see	tú ves
+tú ves	you see
+he / she sees	ve
+ve	he / she sees
+we see	nosotros vemos
+nosotros vemos	we see
+you (pl) see&nbsp;	vosotros veis
+vosotros veis	you (pl) see&nbsp;
+they see	ellos/ellas/uds. ven
+ellos/ellas/uds. ven	they see
+to get	consequir
+consequir	to get
+i get	yo cons<font color="#ff0000">ig</font>o
+yo cons<font color="#ff0000">ig</font>o	i get
+you get	tú cons<font color="#ff0000">i</font>gues
+tú cons<font color="#ff0000">i</font>gues	you get
+he / she gets	cons<font color="#ff0000">i</font>gue
+cons<font color="#ff0000">i</font>gue	he / she gets
+we get	nosotros conseguimos
+nosotros conseguimos	we get
+you (pl) get&nbsp;	vosotros conseguís<br>
+vosotros conseguís<br>	you (pl) get&nbsp;
+they get	ellos/ellas/uds. cons<font color="#ff0000">i</font>guen
+ellos/ellas/uds. cons<font color="#ff0000">i</font>guen	they get
